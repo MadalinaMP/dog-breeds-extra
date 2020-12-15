@@ -1,0 +1,69 @@
+body {
+    background-color: rgba(253, 255, 245);
+}
+
+#menuPosition {
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+#menu {
+    list-style-type: none;
+}
+
+#border {
+    border-right: 1px solid rgb(184, 184, 184);
+    padding-right: 35px;
+    vertical-align: top;
+}
+
+.dogLinks {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.dogLinks:focus {
+    color: blue;
+}
+
+iframe {
+    width: 400px;
+    height: 500px;
+}
+
+.dogPics {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    height: 150px;
+    border: 2px solid rgb(184, 184, 184);
+    border-radius: 150px;
+}
+
+.spacing {
+    padding-left: 4.5px;
+}
+
+.positionTable {
+    margin-top: -20px;
+}
+
+.info {
+    list-style-type: none;
+    font-weight: bold;
+    font-size: 14px;
+    padding-left: 0;
+}
+
+.infoValues {
+    list-style-type: none;
+    font-size: 14px;
+    padding-left: 15px;
+}
+
+p {
+    font-size: 14px;
+    text-align: justify;
+}
